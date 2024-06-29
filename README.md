@@ -45,5 +45,5 @@ Before you begin, ensure you have met the following requirements:
 ### Contact
 If you have any questions or need any more help, please get in touch with me at [rajpatil172004].
 
-![Screenshot](Image1_jpeg)
-![Screenshot](Image2_jpeg)
+![Screenshot](https://github.com/RajxPatil/2201AI30_CS260/blob/main/Image_1.jpeg)
+![Screenshot](https://github.com/RajxPatil/2201AI30_CS260/blob/main/Image_2.jpeg)
