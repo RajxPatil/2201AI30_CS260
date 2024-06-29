@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 3. Submit Application: Fill in the required details and submit your application materials through the portal.
    
 ### Contact
-If you have any questions or need any more help, please get in touch with me at [rajpatil172004].
+If you have any questions or need any more help, please get in touch with me at [rajpatil172004@gmail.com].
 
 ![Screenshot](https://github.com/RajxPatil/2201AI30_CS260/blob/main/Image_1.jpeg)
 ![Screenshot](https://github.com/RajxPatil/2201AI30_CS260/blob/main/Image_2.jpeg)
