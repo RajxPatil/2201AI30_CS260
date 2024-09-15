@@ -31,11 +31,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository   
 2. Navigate to the project directory
 3. Install dependencies
-   npm install
-
-### Running the Website
-1. Start the development server
-2. Open your Browser and go to http://localhost:8000
+   npm install
 
 ### Usage
 1. Register: Create a new account using the registration form.
